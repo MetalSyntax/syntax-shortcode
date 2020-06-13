@@ -16,7 +16,7 @@ Derechos de Autor (C) 2019 Wonder Diaz
 
 ## Licencia
 
-Notes está licenciado bajo la licencia MIT.(http://opensource.org/licenses/MIT)
+Syntax Shortcode está licenciado bajo la licencia MIT.(http://opensource.org/licenses/MIT)
 
 ## Enlaces
 
