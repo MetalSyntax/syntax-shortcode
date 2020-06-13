@@ -2,7 +2,7 @@
 /*
  * Shortcode of paragraph
 */
-add_shortcode( 'private', 'private_shortcode' );
+add_shortcode( 'paragraph_private', 'private_shortcode' );
 
 function private_shortcode( $atts, $content = null ) {
      extract( shortcode_atts( array( 

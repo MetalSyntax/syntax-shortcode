@@ -4,15 +4,17 @@ Derechos de Autor (C) 2019 Wonder Diaz
 ## Instalacion
 - Descargar el proyecto en archivo .zip
 - Instalarlo desde WordPress subiendo el archivo
-- Activarlo 
+- Activarlo
 
 ## Listados de Shortcodes
-| Shortcode | Propiedades   | 
-| :-------  | :------:      |
-| [igp]     | ID,TITLE,COLOR|
-| [yte]     | ID            |
-| [tp]      | ID,TITLE,COLOR|
-| [private] | COLOR         |
+| Shortcode           | Propiedades   | 
+| :-----------------: | :-----------: |
+| [instagram_profile] | ID,TITLE,COLOR|
+| [youtube_embed]     | ID            |
+| [twitter_profile]   | ID,TITLE,COLOR|
+| [paragraph_private] | COLOR         |
+| [post_title]        | AUTO          |
+| [post_data]         | AUTO          |
 
 ## Licencia
 

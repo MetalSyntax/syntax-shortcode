@@ -2,7 +2,7 @@
 /*
  * Shortcode of Youtube
 */
-add_shortcode( 'yte', 'youtube_embed_shortcode' );
+add_shortcode( 'youtube_embed', 'youtube_embed_shortcode' );
 
 function youtube_embed_shortcode ( $atts ) {
     extract( shortcode_atts( array( 

@@ -2,7 +2,7 @@
 /*
  * Shortcode of twitter
 */
-add_shortcode( 'tp', 'twitter_profile_shortcode' );
+add_shortcode( 'twitter_profile', 'twitter_profile_shortcode' );
 
 function twitter_profile_shortcode ( $atts ) {
     extract( shortcode_atts( array( 
