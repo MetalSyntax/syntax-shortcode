@@ -1,13 +1,26 @@
 # Syntax Shortcode
-Derechos de Autor (C) 2019 Wonder Diaz
+Syntax Shortcode is a lightweight WordPress plugin with a list of shortcode to rich your post blog and page.
 
-## Instalacion
-- Descargar el proyecto en archivo .zip
-- Instalarlo desde WordPress subiendo el archivo
-- Activarlo
+## Features
 
-## Listados de Shortcodes
-| Shortcode           | Propiedades   | 
+- Use the shortcode according to your needs
+- Add parameters to the shortcodes for more flexibility
+- Lightweight and optimized for fast performance
+- Compatible with the latest version of WordPress
+
+## Installation
+
+1. Download the latest version of the plugin as a zip file from the [releases page](https://github.com/MetalSyntax/syntax-shortcode/releases).
+2. In your WordPress admin dashboard, navigate to "Plugins" and click "Add New".
+3. Click the "Upload Plugin" button and select the zip file you downloaded in step 1.
+4. Click "Install Now" and then "Activate Plugin".
+5. You're all set! You can now start creating custom shortcodes in your WordPress site.
+
+## Usage
+Copy and paste the shortcode favorite and add the props for customization.
+
+## List of Shortcodes
+| Shortcode           | Parameters    | 
 | :-----------------: | :-----------: |
 | [instagram_profile] | ID,TITLE,COLOR|
 | [youtube_embed]     | ID            |
@@ -16,16 +29,13 @@ Derechos de Autor (C) 2019 Wonder Diaz
 | [post_title]        | AUTO          |
 | [post_data]         | AUTO          |
 
-## Licencia
+## Licence
 
-Syntax Shortcode está licenciado bajo la licencia MIT.(http://opensource.org/licenses/MIT)
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## Enlaces
+## Credits
+This project was created by MetalSyntax.
 
-Codigo Fuente:
-
-- Syntax Shortcode: https://github.com/MetalSyntax/syntax-shortcode
-
-Donaciones:
+## Donations
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/MetalSyntax)
