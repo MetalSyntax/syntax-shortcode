@@ -10,7 +10,7 @@ Syntax Shortcode is a lightweight WordPress plugin with a list of shortcode to r
 
 ## Installation
 
-1. Download the latest version of the plugin as a zip file from the [releases page](https://github.com/MetalSyntax/syntax-shortcode/releases).
+1. Download the latest version of the plugin as a zip file from the [master branch](https://github.com/MetalSyntax/syntax-shortcode/archive/refs/heads/master.zip).
 2. In your WordPress admin dashboard, navigate to "Plugins" and click "Add New".
 3. Click the "Upload Plugin" button and select the zip file you downloaded in step 1.
 4. Click "Install Now" and then "Activate Plugin".
